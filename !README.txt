@@ -1,0 +1,1 @@
+To use the code for the To-Do bot, you just need to insert your token into main.py, specifically in TOKEN="your token"
